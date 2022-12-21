@@ -1,0 +1,2 @@
+1.Open your Terminal or Command Prompt in the same path where the app.py is stored.
+2.Execute streamlit run app.py for the dashboard to start running on your localhost and the link would be displayed in your Terminal and also opened as a new Tab in your default browser.
